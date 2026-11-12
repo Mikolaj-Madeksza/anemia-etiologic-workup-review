@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# Documents and figures remain outside the public repository.
+/manuscript.docx
+/supplementary.docx
+/figures/
